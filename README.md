@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Node.js<br>
+<h1>🌱 I’m currently learning Node.js</h1>
 
 <img src="https://uploads-ssl.webflow.com/63a58f5eea7e9c9396453f5b/64fb23c89978998e201a4657_5.webp" alt="alt text" width="800" height="500" style="object-fit: cover;">
 
