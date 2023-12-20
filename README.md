@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mehriban Khalilova</h1>
-<h2># 💫 About Me: A front-end developer based in Azerbaijan.</h2>
+<h2># 💫 About Me:</h2>
 <h2>🌱 I’m currently learning Node.js</h2>
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehx3riban) 
