@@ -2,9 +2,6 @@
 <h2># 💫 About Me: A front-end developer based in Azerbaijan.</h2>
 <h2>🌱 I’m currently learning Node.js</h2>
 
-
-<img src="https://uploads-ssl.webflow.com/63a58f5eea7e9c9396453f5b/64fb23c89978998e201a4657_5.webp" alt="alt text" width="500" height="300" style="object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
-
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehx3riban) 
 
 
