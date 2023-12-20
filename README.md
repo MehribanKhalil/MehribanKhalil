@@ -1,5 +1,5 @@
-Hi 👋, I'm Mehriban Khalilova
-# 💫 About Me: A front-end developer based in Azerbaijan.
+<h1>Hi 👋, I'm Mehriban Khalilova</h1>
+<h2># 💫 About Me: A front-end developer based in Azerbaijan.<h2/>
 <h2>🌱 I’m currently learning Node.js</h2>
 
 
